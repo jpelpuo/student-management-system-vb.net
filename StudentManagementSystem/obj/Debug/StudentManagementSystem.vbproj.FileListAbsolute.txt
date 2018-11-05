@@ -1,0 +1,74 @@
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.xml
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Resources.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.xml
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student_Login.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Staff_Login.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.CopyComplete
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Resource1.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student_Options.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Welcome_Screen.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Personal Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.StaffOptions.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.xml
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Welcome_Screen.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Resources.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Resource1.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Staff_Login.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student_Login.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student_Options.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.CopyComplete
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.xml
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.RegisterCourses.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Calculate_GPA.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Check_Class.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Check_Grades.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Proof_of_registration.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Upload_grades.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Staff_Options.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Registered_Students.resources
+C:\Users\Jamal Pelpuo\Desktop\Course Work\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbprojAssemblyReference.cache
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.xml
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbprojAssemblyReference.cache
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Calculate_GPA.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Check_Class.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Check_Grades.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Proof_of_registration.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.RegisterCourses.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Registered_Students.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Upload_grades.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Welcome_Screen.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Resources.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Resource1.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Staff_Options.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Staff_Login.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student_Login.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student_Options.resources
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.vbproj.CopyComplete
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.xml
+C:\Users\Jamal Pelpuo\Desktop\Books & Course\Studies\VB .NET\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
